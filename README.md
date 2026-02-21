@@ -7,12 +7,13 @@ SQL-driven analytics solution designed to measure campaign performance, optimize
 ## 📊 Project Overview
 This repository contains production-ready SQL queries and analytics for a marketing analytics platform. The project analyzes marketing campaigns across multiple channels, customer lifetime value, churn prediction, and profitability metrics.
 
-**Key Focus Areas:**
-- Marketing ROI and ROAS Analysis
-- Customer Lifetime Value (LTV) Segmentation
-- Churn Probability Prediction & Client Loyalty Classification
-- Customer Acquisition Cost (CAC) by Channel
-- Multi-Channel Marketing Performance Optimization
+**Key achievements:**
+
+Optimized marketing ROI across multiple channels.
+
+Automated calculation of CAC, LTV, and churn probability.
+
+Segmented customer base for targeted retention strategies.
 
 ## 📁 Project Structure
 
