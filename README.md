@@ -1,7 +1,7 @@
 # ROAS Analytics SQL Project
 
 ## Executive Summary
-Marketing Analytics & ROI Optimization
+#Marketing Analytics & ROI Optimization
 SQL-driven analytics solution designed to measure campaign performance, optimize advertising spend, and identify key customer segments. Includes actionable insights on ROAS, CAC, LTV, and churn, enabling data-driven decisions for business growth.
 
 ## 📊 Project Overview
