@@ -1,3 +1,4 @@
+**TL;DR:** Production-ready SQL marketing analytics project delivering actionable insights on ROAS, CAC, LTV, and churn, enabling data-driven marketing and retention strategies.
 # ROAS Analytics SQL Project
 
 ## Problem Statement
