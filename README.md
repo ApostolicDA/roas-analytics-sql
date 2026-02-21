@@ -1,7 +1,8 @@
 # ROAS Analytics SQL Project
 
 ## Executive Summary
-A comprehensive SQL analytics project demonstrating advanced marketing performance analysis, customer segmentation, and return on advertising spend (ROAS) optimization. This project showcases proficiency in complex SQL queries, multi-table joins, window functions, and business intelligence metrics essential for data-driven decision making.
+Marketing Analytics & ROI Optimization
+SQL-driven analytics solution designed to measure campaign performance, optimize advertising spend, and identify key customer segments. Includes actionable insights on ROAS, CAC, LTV, and churn, enabling data-driven decisions for business growth.
 
 ## 📊 Project Overview
 This repository contains production-ready SQL queries and analytics for a marketing analytics platform. The project analyzes marketing campaigns across multiple channels, customer lifetime value, churn prediction, and profitability metrics.
