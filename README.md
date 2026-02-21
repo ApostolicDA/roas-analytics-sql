@@ -10,7 +10,7 @@ Marketing teams often invest across multiple channels without clear visibility i
 
 * Identifies high-value customers and at-risk segments using LTV and churn analysis.
 
-* Provides actionable insights to optimize marketing spend, improve retention, and drive measurable business impact.
+* Provides actionable insights to **optimize marketing spend, improve retention, and drive measurable business impact.**
 
 ## Executive Summary
 ### Marketing Analytics & ROI Optimization
