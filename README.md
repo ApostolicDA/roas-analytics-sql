@@ -1,5 +1,9 @@
 # ROAS Analytics SQL Project
 
+## Problem Statement
+
+Marketing teams often invest across multiple channels without clear visibility into which campaigns generate the highest return on ad spend (ROAS) or acquire high-value customers. This lack of insight can lead to inefficient budget allocation, high customer acquisition costs, and missed opportunities to retain loyal clients.
+
 ## Executive Summary
 ### Marketing Analytics & ROI Optimization
 SQL-driven analytics solution designed to measure campaign performance, optimize advertising spend, and identify key customer segments. Includes actionable insights on ROAS, CAC, LTV, and churn, enabling data-driven decisions for business growth.
