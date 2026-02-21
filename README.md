@@ -9,11 +9,11 @@ This repository contains production-ready SQL queries and analytics for a market
 
 **Key achievements:**
 
-Optimized marketing ROI across multiple channels.
+-Optimized marketing ROI across multiple channels.
 
-Automated calculation of CAC, LTV, and churn probability.
+-Automated calculation of CAC, LTV, and churn probability.
 
-Segmented customer base for targeted retention strategies.
+-Segmented customer base for targeted retention strategies.
 
 ## 📁 Project Structure
 
