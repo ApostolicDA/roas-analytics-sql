@@ -2,7 +2,15 @@
 
 ## Problem Statement
 
-Marketing teams often invest across multiple channels without clear visibility into which campaigns generate the highest return on ad spend (ROAS) or acquire high-value customers. This lack of insight can lead to inefficient budget allocation, high customer acquisition costs, and missed opportunities to retain loyal clients.
+Marketing teams often invest across multiple channels without clear visibility into which campaigns generate the highest return on ad spend (ROAS) or attract high-value customers. This lack of insight can result in inefficient budget allocation, high customer acquisition costs, and missed revenue opportunities.
+
+## Objective: Develop a SQL-based analytics solution that:
+
+* Measures campaign performance and profitability across channels.
+
+* Identifies high-value customers and at-risk segments using LTV and churn analysis.
+
+* Provides actionable insights to optimize marketing spend, improve retention, and drive measurable business impact.
 
 ## Executive Summary
 ### Marketing Analytics & ROI Optimization
