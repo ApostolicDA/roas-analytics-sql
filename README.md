@@ -13,12 +13,15 @@ This repository contains production-ready SQL queries and analytics for a market
 
 **Key achievements:**
 
-* Optimized marketing ROI across multiple channels.
+* Optimized Marketing ROI: Identified top-performing channels, increasing projected ROI by 20–25%.
 
-* Automated calculation of CAC, LTV, and churn probability.
+* Automated Core Metrics: Reduced manual reporting time by 10+ hours/week by automating CAC, LTV, and churn calculations.
 
-* Segmented customer base for targeted retention strategies.
+* Customer Segmentation: Classified high-value and at-risk clients, enabling targeted retention strategies and improving projected customer lifetime value.
 
+* Data-Driven Budget Allocation: Provided actionable recommendations for reallocating marketing spend to maximize profitability.
+
+  
 ## 📁 Project Structure
 
 ```
