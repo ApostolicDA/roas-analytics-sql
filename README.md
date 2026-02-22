@@ -20,6 +20,19 @@ SQL-driven analytics solution designed to measure campaign performance, optimize
 ## 📊 Project Overview
 This repository contains production-ready SQL queries and analytics for a marketing analytics platform. The project analyzes marketing campaigns across multiple channels, customer lifetime value, churn prediction, and profitability metrics.
 
+## 📊 Analytics Dashboard Preview
+
+Below is the Power BI dashboard built using the SQL outputs from this project.
+
+![ROAS Analytics Dashboard](roas-dashboard.png)
+
+### Dashboard Highlights:
+- Channel Profitability & ROAS
+- Customer Lifetime Value Ranking
+- CAC by Channel
+- Conversions by Marketing Source
+- Churn vs Revenue Segmentation
+
 **Key achievements:**
 
 * Optimized Marketing ROI: Identified top-performing channels, increasing projected ROI by 20–25%.
