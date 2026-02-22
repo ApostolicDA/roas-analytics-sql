@@ -25,6 +25,7 @@ This repository contains production-ready SQL queries and analytics for a market
 Below is the Power BI dashboard built using the SQL outputs from this project.
 
 ![ROAS Analytics Dashboard](roas-dashboard.png)
+The dashboard visualizes production-ready SQL outputs, demonstrating the transition from raw data modeling to executive-level business intelligence reporting.
 
 ### Dashboard Highlights:
 - Channel Profitability & ROAS
