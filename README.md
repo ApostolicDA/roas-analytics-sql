@@ -1,4 +1,14 @@
-**TL;DR:** Production-ready SQL marketing analytics solution with executive Power BI dashboard delivering actionable insights on ROAS, CAC, LTV, and churn.
+## 💡 Key Results (TL;DR)
+
+| Metric | Outcome |
+|---|---|
+| Projected ROI improvement | 20–25% from channel reallocation |
+| Manual reporting eliminated | 10+ hours/week |
+| Customer segments built | 4 loyalty tiers (Loyal → At Risk) |
+| Tables joined | 6 relational tables in single pipeline |
+
+*This was an independent project — original schema design, query 
+architecture, and business recommendations are entirely my own.*
 
 ## Problem Statement
 
@@ -221,4 +231,3 @@ For questions about this project or to discuss how these analytical approaches c
 
 ---
 
-**Note**: This project demonstrates SQL expertise suitable for roles including Data Analyst, Analytics Engineer, Business Intelligence Developer, and Marketing Data Scientist positions.
